@@ -1,0 +1,3242 @@
+fileFormatVersion: 2
+guid: 832dc2eda0532024aa49699823063ae3
+timeCreated: 1484948480
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: scissor_0
+    21300002: scissor_1
+    21300004: scissor_2
+    21300006: scissor_3
+    21300008: scissor_4
+    21300010: scissor_5
+    21300012: scissor_6
+    21300014: scissor_7
+    21300016: scissor_8
+    21300018: scissor_9
+    21300020: scissor_10
+    21300022: scissor_11
+    21300024: scissor_12
+    21300026: scissor_13
+    21300028: scissor_14
+    21300030: scissor_15
+    21300032: scissor_16
+    21300034: scissor_17
+    21300036: scissor_18
+    21300038: scissor_19
+    21300040: scissor_20
+    21300042: scissor_21
+    21300044: scissor_22
+    21300046: scissor_23
+    21300048: scissor_24
+    21300050: scissor_25
+    21300052: scissor_26
+    21300054: scissor_27
+    21300056: scissor_28
+    21300058: scissor_29
+    21300060: scissor_30
+    21300062: scissor_31
+    21300064: scissor_32
+    21300066: scissor_33
+    21300068: scissor_34
+    21300070: scissor_35
+    21300072: scissor_36
+    21300074: scissor_37
+    21300076: scissor_38
+    21300078: scissor_39
+    21300080: scissor_40
+    21300082: scissor_41
+    21300084: scissor_42
+    21300086: scissor_43
+    21300088: scissor_44
+    21300090: scissor_45
+    21300092: scissor_46
+    21300094: scissor_47
+    21300096: scissor_48
+    21300098: scissor_49
+    21300100: scissor_50
+    21300102: scissor_51
+    21300104: scissor_52
+    21300106: scissor_53
+    21300108: scissor_54
+    21300110: scissor_55
+    21300112: scissor_56
+    21300114: scissor_57
+    21300116: scissor_58
+    21300118: scissor_59
+    21300120: scissor_60
+    21300122: scissor_61
+    21300124: scissor_62
+    21300126: scissor_63
+    21300128: scissor_64
+    21300130: scissor_65
+    21300132: scissor_66
+    21300134: scissor_67
+    21300136: scissor_68
+    21300138: scissor_69
+    21300140: scissor_70
+    21300142: scissor_71
+    21300144: scissor_72
+    21300146: scissor_73
+    21300148: scissor_74
+    21300150: scissor_75
+    21300152: scissor_76
+    21300154: scissor_77
+    21300156: scissor_78
+    21300158: scissor_79
+    21300160: scissor_80
+    21300162: scissor_81
+    21300164: scissor_82
+    21300166: scissor_83
+    21300168: scissor_84
+    21300170: scissor_85
+    21300172: scissor_86
+    21300174: scissor_87
+    21300176: scissor_88
+    21300178: scissor_89
+    21300180: scissor_90
+    21300182: scissor_91
+    21300184: scissor_92
+    21300186: scissor_93
+    21300188: scissor_94
+    21300190: scissor_95
+    21300192: scissor_96
+    21300194: scissor_97
+    21300196: scissor_98
+    21300198: scissor_99
+    21300200: scissor_100
+    21300202: scissor_101
+    21300204: scissor_102
+    21300206: scissor_103
+    21300208: scissor_104
+    21300210: scissor_105
+    21300212: scissor_106
+    21300214: scissor_107
+    21300216: scissor_108
+    21300218: scissor_109
+    21300220: scissor_110
+    21300222: scissor_111
+    21300224: scissor_112
+    21300226: scissor_113
+    21300228: scissor_114
+    21300230: scissor_115
+    21300232: scissor_116
+    21300234: scissor_117
+    21300236: scissor_118
+    21300238: scissor_119
+    21300240: scissor_120
+    21300242: scissor_121
+    21300244: scissor_122
+    21300246: scissor_123
+    21300248: scissor_124
+    21300250: scissor_125
+    21300252: scissor_126
+    21300254: scissor_127
+    21300256: scissor_128
+    21300258: scissor_129
+    21300260: scissor_130
+    21300262: scissor_131
+    21300264: scissor_132
+    21300266: scissor_133
+    21300268: scissor_134
+    21300270: scissor_135
+    21300272: scissor_136
+    21300274: scissor_137
+    21300276: scissor_138
+    21300278: scissor_139
+    21300280: scissor_140
+    21300282: scissor_141
+    21300284: scissor_142
+    21300286: scissor_143
+    21300288: scissor_144
+    21300290: scissor_145
+    21300292: scissor_146
+    21300294: scissor_147
+    21300296: scissor_148
+    21300298: scissor_149
+    21300300: scissor_150
+    21300302: scissor_151
+    21300304: scissor_152
+    21300306: scissor_153
+    21300308: scissor_154
+    21300310: scissor_155
+    21300312: scissor_156
+    21300314: scissor_157
+    21300316: scissor_158
+    21300318: scissor_159
+    21300320: scissor_160
+    21300322: scissor_161
+    21300324: scissor_162
+    21300326: scissor_163
+    21300328: scissor_164
+    21300330: scissor_165
+    21300332: scissor_166
+    21300334: scissor_167
+    21300336: scissor_168
+    21300338: scissor_169
+    21300340: scissor_170
+    21300342: scissor_171
+    21300344: scissor_172
+    21300346: scissor_173
+    21300348: scissor_174
+    21300350: scissor_175
+    21300352: scissor_176
+    21300354: scissor_177
+    21300356: scissor_178
+    21300358: scissor_179
+    21300360: scissor_180
+    21300362: scissor_181
+    21300364: scissor_182
+    21300366: scissor_183
+    21300368: scissor_184
+    21300370: scissor_185
+    21300372: scissor_186
+    21300374: scissor_187
+    21300376: scissor_188
+    21300378: scissor_189
+    21300380: scissor_190
+    21300382: scissor_191
+    21300384: scissor_192
+    21300386: scissor_193
+    21300388: scissor_194
+    21300390: scissor_195
+    21300392: scissor_196
+    21300394: scissor_197
+    21300396: scissor_198
+    21300398: scissor_199
+    21300400: scissor_200
+    21300402: scissor_201
+    21300404: scissor_202
+    21300406: scissor_203
+    21300408: scissor_204
+    21300410: scissor_205
+    21300412: scissor_206
+    21300414: scissor_207
+    21300416: scissor_208
+    21300418: scissor_209
+    21300420: scissor_210
+    21300422: scissor_211
+    21300424: scissor_212
+    21300426: scissor_213
+    21300428: scissor_214
+    21300430: scissor_215
+    21300432: scissor_216
+    21300434: scissor_217
+    21300436: scissor_218
+    21300438: scissor_219
+    21300440: scissor_220
+    21300442: scissor_221
+    21300444: scissor_222
+    21300446: scissor_223
+    21300448: scissor_224
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: scissor_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 472
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_18
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_20
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_21
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_27
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_28
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_29
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 440
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_32
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_33
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_34
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_35
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_36
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_38
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_42
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_43
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_44
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 408
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_46
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_47
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_49
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_50
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_51
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_52
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_53
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_56
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_57
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_58
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_59
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 376
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_61
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_63
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_64
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_65
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_66
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_67
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_68
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_69
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_73
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_74
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 344
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_78
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_80
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_81
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_83
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_84
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_85
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_86
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_87
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_88
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_89
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 312
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_91
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_92
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_93
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_94
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_95
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_96
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_97
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_98
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_99
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_100
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_101
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_102
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_103
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_104
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 280
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_105
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_106
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_107
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_108
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_109
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_110
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_111
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_112
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_113
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_114
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_115
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_117
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_118
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_119
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 248
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_120
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_121
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_122
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_123
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_124
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_126
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_127
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_128
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_129
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_130
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_131
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_132
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_133
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_134
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 216
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_135
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_136
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_137
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_138
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_139
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_140
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_141
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_142
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_143
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_144
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_145
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_146
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_147
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_148
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_149
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 184
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_151
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_153
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_154
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_155
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_156
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_157
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_158
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_159
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_160
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_161
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_162
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_163
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_164
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 152
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_166
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_167
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_169
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_170
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_171
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_172
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_173
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_174
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_175
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_176
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_177
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_178
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_179
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 120
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_180
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_181
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_182
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_183
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_184
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_185
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_186
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_187
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_188
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_189
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_190
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_191
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_192
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_193
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_194
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_195
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_196
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_197
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_198
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_199
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_200
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_201
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_202
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_203
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_204
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_205
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_206
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_207
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_208
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_209
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_210
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_211
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_212
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_213
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_214
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_215
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_216
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_217
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_218
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_219
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_220
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_221
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_222
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_223
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: scissor_224
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 24
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
